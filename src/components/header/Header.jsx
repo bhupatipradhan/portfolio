@@ -11,7 +11,7 @@ export default function Header() {
                     <nav className='sm:grid sm:grid-cols-12  mt-5 flex justify-between'>
                         <div className='sm:col-span-2 flex items-center justify-center' >
                             <div className='m-15 p-15 bg-[#333337] rounded-full text-white'>
-                            <img className='rounded-full w-[40px] h-[40px] border-slate-400 border ' src='/media/my-head.jpg' ></img>
+                            <img className='rounded-full w-[40px] h-[40px] border-slate-400 border ' src='media/my-head.jpg' ></img>
                             </div>
                         </div>
                         <div className='sm:flex items-center sm:col-span-8 justify-center hidden' >
