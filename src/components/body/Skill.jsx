@@ -46,102 +46,102 @@ function Skill() {
           <div className='col-span-1'>
             <div className='flex flex-wrap gap-2 mr-5 ml-5 justify-between'>
               <div className='transition bg-[#333337] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400 '>
-                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='media/icon-java.png'></img>
+                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='/media/icon-java.png'></img>
               </div>
               <div className='transition bg-[#333337] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
-                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='media/icon-spring.png'></img>
+                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='/media/icon-spring.png'></img>
               </div>
               <div className='transition bg-[#333337] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
-                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='media/icon-rest.png'></img>
+                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='/media/icon-rest.png'></img>
               </div>
               <div className='bg-[#333337] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
-                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='media/icon-maven.png'></img>
+                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='/media/icon-maven.png'></img>
               </div>
               <div className='transition bg-[#333337] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
-                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='media/icon-gradle.png'></img>
+                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='/media/icon-gradle.png'></img>
               </div>
 
               <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
-                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='media/icon-mysql.png'></img>
+                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='/media/icon-mysql.png'></img>
               </div>
               <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
-                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='media/icon-PostgreSQL.png'></img>
-              </div>
-
-              <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
-                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='media/icon-oracle.png'></img>
-              </div>
-              <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
-                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='media/icon-mongoDb.png'></img>
-              </div>
-              <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
-                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='media/icon-neo4j.png'></img>
+                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='/media/icon-PostgreSQL.png'></img>
               </div>
 
               <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
-                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='media/icon-eclipse.png'></img>
+                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='/media/icon-oracle.png'></img>
               </div>
               <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
-                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='media/icon-intellij.png'></img>
+                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='/media/icon-mongoDb.png'></img>
               </div>
               <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
-                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='media/icon-vs.png'></img>
-              </div>
-              <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
-                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='media/icon-windows.png'></img>
-              </div>
-              <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
-                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='media/icon-linux.png'></img>
-              </div>
-              <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
-                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='media/icon-tomcat.png'></img>
-              </div>
-              <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
-                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='media/icon-html.png'></img>
-              </div>
-              <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
-                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='media/icon-css.png'></img>
+                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='/media/icon-neo4j.png'></img>
               </div>
 
               <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
-                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='media/icon-tailwind.png'></img>
+                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='/media/icon-eclipse.png'></img>
               </div>
               <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
-                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='media/icon-js.png'></img>
+                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='/media/icon-intellij.png'></img>
               </div>
               <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
-                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='media/icon-node.png'></img>
+                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='/media/icon-vs.png'></img>
               </div>
               <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
-                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='media/icon-react.png'></img>
+                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='/media/icon-windows.png'></img>
               </div>
               <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
-                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='media/icon-git.png'></img>
+                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='/media/icon-linux.png'></img>
               </div>
               <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
-                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='media/icon-junit.png'></img>
+                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='/media/icon-tomcat.png'></img>
               </div>
               <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
-                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='media/icon-jira.png'></img>
+                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='/media/icon-html.png'></img>
               </div>
               <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
-                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='media/icon-jenkins.png'></img>
+                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='/media/icon-css.png'></img>
               </div>
 
               <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
-                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='media/icon-sonarqube.png'></img>
+                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='/media/icon-tailwind.png'></img>
               </div>
               <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
-                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='media/icon-postman.png'></img>
+                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='/media/icon-js.png'></img>
               </div>
               <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
-                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='media/icon-aws.png'></img>
+                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='/media/icon-node.png'></img>
               </div>
               <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
-                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='media/HL7.png'></img>
+                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='/media/icon-react.png'></img>
               </div>
               <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
-                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='media/FHIR.png'></img>
+                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='/media/icon-git.png'></img>
+              </div>
+              <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
+                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='/media/icon-junit.png'></img>
+              </div>
+              <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
+                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='/media/icon-jira.png'></img>
+              </div>
+              <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
+                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='/media/icon-jenkins.png'></img>
+              </div>
+
+              <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
+                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='/media/icon-sonarqube.png'></img>
+              </div>
+              <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
+                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='/media/icon-postman.png'></img>
+              </div>
+              <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
+                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='/media/icon-aws.png'></img>
+              </div>
+              <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
+                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='/media/HL7.png'></img>
+              </div>
+              <div className='transition bg-[#EBEDE8] scale-75 hover:scale-110 rounded-md   flex items-center justify-center hover:shadow-md hover:shadow-cyan-400'>
+                <img className=' w-[100px] h-[100px] rounded-md ' alt='' src='/media/FHIR.png'></img>
               </div>
 
             </div>

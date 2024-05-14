@@ -12,7 +12,7 @@ export default function About() {
               who bridges the gap between your vision and code with pinch of front-end expertise.</h1>
           </div>
           <div className='mt-16 col-span-1 flex items-center justify-center'>
-            <img className='w-76 h-80 rounded-md rotate-3' alt='' src='media/self1.jpg'></img>
+            <img className='w-76 h-80 rounded-md rotate-3' alt='' src='/media/self1.jpg'></img>
           </div>
         </div>
         <div className='grid grid-cols-2'>

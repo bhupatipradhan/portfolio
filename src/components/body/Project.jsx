@@ -15,42 +15,42 @@ function Project() {
         <div className='bg-transparent ml-14 mr-14 mt-5 mb-5 flex flex-wrap gap-2 justify-evenly'>
           <div className='transition-all hover:bg-[#333337] p-10 w-[357px] rounded-lg'>
             <div className='rounded-full w-[60px] h-[60px] bg-[#333337] border-[#454548] border flex items-center justify-center' >
-              <img className='rounded-full w-[45px] h-[45px]  ' src='media/Neurex.jpeg' ></img>
+              <img className='rounded-full w-[45px] h-[45px]  ' src='/media/Neurex.jpeg' ></img>
             </div>
             <h1 className='mt-5 mb-5 text-white tracking-wider text-xl '>Neurex</h1>
             <p className='text-[#a1a1aa] mt-2 '>A complete healthcare billing solution. Where advanced algorithms and NLP extract valuable information from unstructured patient notes, identifying standardized clinical codes like SNOMED, CPT, LOINC, HCPCS, ICD..</p>
           </div>
           <div className='transition-all hover:bg-[#333337] p-10 w-[357px] rounded-lg'>
             <div className='rounded-full w-[60px] h-[60px] bg-[#333337] border-[#454548] border flex items-center justify-center' >
-              <img className='rounded-full w-[45px] h-[45px]  ' src='media/Sophist.jpeg' ></img>
+              <img className='rounded-full w-[45px] h-[45px]  ' src='/media/Sophist.jpeg' ></img>
             </div>
             <h1 className='mt-5 mb-5 text-white tracking-wider text-xl'>Sophist</h1>
             <p className='text-[#a1a1aa] mt-2 '>Our complete healthcare solution utilizes the FHIR r4 standard to manage various services including appointment scheduling, insurance, practitioner, and patient management.</p>
           </div>
           <div className='transition-all hover:bg-[#333337] p-10 w-[357px] rounded-lg'>
             <div className='rounded-full w-[60px] h-[60px] bg-[#333337] border-[#454548] border flex items-center justify-center' >
-              <img className='rounded-full w-[45px] h-[45px]  ' src='media/iMTD.jpeg' ></img>
+              <img className='rounded-full w-[45px] h-[45px]  ' src='/media/iMTD.jpeg' ></img>
             </div>
             <h1 className='mt-5 mb-5 text-white tracking-wider text-xl'>iMTD</h1>
             <p className='text-[#a1a1aa] mt-2 '>iMTD facilitates medical term lookup, verification, and translation. It's compatible with UMLS terminologies like SNOMED CT, LOINC, ICD-10, and more.</p>
           </div>
           <div className='transition-all hover:bg-[#333337] p-10 w-[357px] rounded-lg'>
             <div className='rounded-full w-[60px] h-[60px] bg-[#333337] border-[#454548] border flex items-center justify-center' >
-              <img className='rounded-full w-[45px] h-[45px]  ' src='media/Ehealth.jpeg' ></img>
+              <img className='rounded-full w-[45px] h-[45px]  ' src='/media/Ehealth.jpeg' ></img>
             </div>
             <h1 className='mt-5 mb-5 text-white tracking-wider text-xl'>E-health Exchange</h1>
             <p className='text-[#a1a1aa] mt-2 '>This application supports national and local health information exchange, ensuring compatibility with secure network standards and nationally accepted interoperability standards.</p>
           </div>
           <div className='transition-all hover:bg-[#333337] p-10 w-[357px] rounded-lg'>
             <div className='rounded-full w-[60px] h-[60px] bg-[#333337] border-[#454548] border flex items-center justify-center' >
-              <img className='rounded-full w-[45px] h-[45px]  ' src='media/Epic.jpeg' ></img>
+              <img className='rounded-full w-[45px] h-[45px]  ' src='/media/Epic.jpeg' ></img>
             </div>
             <h1 className='mt-5 mb-5 text-white tracking-wider text-xl'>Epic-Mapping  </h1>
             <p className='text-[#a1a1aa] mt-2 '>In this project, we map EPIC EMR data to a POJO class, storing it in a Mongo database. A trigger sends updated data to the EPIC server.</p>
           </div>
           <div className='transition-all hover:bg-[#333337] p-10 w-[357px] rounded-lg'>
             <div className='rounded-full w-[60px] h-[60px] bg-[#333337] border-[#454548] border flex items-center justify-center' >
-              <img className='rounded-full w-[45px] h-[45px]  ' src='media/Tenant.jpeg' ></img>
+              <img className='rounded-full w-[45px] h-[45px]  ' src='/media/Tenant.jpeg' ></img>
             </div>
             <h1 className='mt-5 mb-5 text-white tracking-wider text-xl'>Tenant Management</h1>
             <p className='text-[#a1a1aa] mt-2 '>Clinics employ custom authentication for login. FHIR R4 resources store data in the database. Each clinic's data is stored uniquely.</p>
@@ -79,7 +79,7 @@ function Project() {
             </ul>
           </div>
           <div className=' mt-14 col-span-1 flex flex-wrap hover:scale-100'>
-          <img className='rounded-full w-[300px] h-[300px]  ' src='media/JavaCycle.png' ></img>
+          <img className='rounded-full w-[300px] h-[300px]  ' src='/media/JavaCycle.png' ></img>
           </div>
         </div>
 

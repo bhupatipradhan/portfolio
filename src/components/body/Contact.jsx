@@ -40,7 +40,7 @@ function Contact() {
           </div>
           <div className='ml-12 col-span-1'>
             <div className='mt-16 col-span-1 flex items-center justify-center'>
-              <img className='w-76 h-80 rounded-md rotate-3' alt='' src='media/Contact.png'></img>
+              <img className='w-76 h-80 rounded-md rotate-3' alt='' src='/media/Contact.png'></img>
             </div>
           </div>
         </div>
